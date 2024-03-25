@@ -1,0 +1,3 @@
+/home/ignacio/Proyectos/DescentralizedVotingSystem/Decentralized_Voting_System/build/CMakeFiles/MainCpp.dir
+/home/ignacio/Proyectos/DescentralizedVotingSystem/Decentralized_Voting_System/build/CMakeFiles/edit_cache.dir
+/home/ignacio/Proyectos/DescentralizedVotingSystem/Decentralized_Voting_System/build/CMakeFiles/rebuild_cache.dir
